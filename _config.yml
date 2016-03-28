@@ -1,0 +1,28 @@
+name: purplehundreds
+favicon: null
+layout_spectrum: 0.01117498311214149
+typography_spectrum: 0.5675000031478703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.840999630978331
+  lightness: 0.17262667627073824
+  saturation: 0.6183163679670542
+  rhythmicContrast: 0.021589535055682063
+purpose: []
