@@ -1,28 +1,38 @@
-name: purplehundreds
-favicon: null
-layout_spectrum: 0.01117498311214149
-typography_spectrum: 0.5675000031478703
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.840999630978331
-  lightness: 0.17262667627073824
-  saturation: 0.6183163679670542
-  rhythmicContrast: 0.021589535055682063
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 0.840999630978331
+  lightness: 0.1756272
+  brandColors:
+    - '#DADCDA'
+    - '#130E0B'
+    - '#5C4230'
+  rhythmicContrast: 0.02158953
+typography_spectrum: 0.5376344
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: purplehundreds
