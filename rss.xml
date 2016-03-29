@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[purplehundreds]]></title>
         <description><![CDATA[purplehundreds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/purplehundreds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:52:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:56:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/purplehundreds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tru Heru]]></title>
+            <description><![CDATA[<article><h1>Tru Heru</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5109017b-72a3-41bb-9f85-64197f194b17.png"></article>]]></description>
+            <link>https://thegrid.ai/purplehundreds/tru-heru/index.html</link>
+            <guid isPermaLink="false">41b9e120-080b-4961-93e5-af05643b70e3</guid>
+            <pubDate>Tue, 29 Mar 2016 01:55:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lil sky lord]]></title>
             <description><![CDATA[<article><h1>lil sky lord</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54211868ca44ee99ba903142646acd70ed5229c9.png"></article>]]></description>
-            <link>undefinedlil-sky-lord/index.html</link>
+            <link>https://thegrid.ai/purplehundreds/lil-sky-lord/index.html</link>
             <guid isPermaLink="false">1f80e0d1-214d-4d1e-b46a-b197fa396272</guid>
             <pubDate>Tue, 29 Mar 2016 01:52:23 GMT</pubDate>
         </item>
